@@ -12,7 +12,8 @@ import javax.swing.JOptionPane;
 public class IntroToProgrammingCourse extends ProgrammingCourse{
    
 
-    public IntroToProgrammingCourse(String courseName, String courseNumber, double credits) {
+    public IntroToProgrammingCourse(String courseName, 
+            String courseNumber, double credits) {
         this.setCourseName(courseName);
         this.setCourseNumber(courseNumber);
         this.setCredits(credits);
