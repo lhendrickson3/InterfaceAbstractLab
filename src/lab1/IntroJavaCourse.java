@@ -12,9 +12,10 @@ public class IntroJavaCourse extends ProgrammingCourse {
     
     private String prerequisites;
 
-    public IntroJavaCourse(String courseName, String courseNumber) {
+    public IntroJavaCourse(String courseName, String courseNumber, double credits) {
         this.setCourseName(courseName);
         this.setCourseNumber(courseNumber);
+        this.setCredits(credits);
     }
 
     public String getPrerequisites() {

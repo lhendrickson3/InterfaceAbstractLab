@@ -9,5 +9,13 @@ package lab1;
  * @author User
  */
 public class Runner {
-    
+    public static void main(String[] args){
+
+  IntroToProgrammingCourse myProgramIntro = new IntroToProgrammingCourse("");
+       
+  IntroJavaCourse myJavaIntro = new IntroJavaCourse();
+   
+  AdvancedJava myAdvancedJava = new AdvancedJava();
+  
+  }     
 }
