@@ -11,11 +11,11 @@ package lab1;
 public class Runner {
     public static void main(String[] args){
 
-  IntroToProgrammingCourse myProgramIntro = new IntroToProgrammingCourse("");
+  IntroToProgrammingCourse myProgramIntro = new IntroToProgrammingCourse("Intro to Programming", "1234", 3);
        
-  IntroJavaCourse myJavaIntro = new IntroJavaCourse();
+  IntroJavaCourse myJavaIntro = new IntroJavaCourse("Intro to Java", "5678", 4);
    
-  AdvancedJava myAdvancedJava = new AdvancedJava();
+  AdvancedJavaCourse myAdvancedJava = new AdvancedJavaCourse("Advanced Java", "9123", 4);
   
   }     
 }
