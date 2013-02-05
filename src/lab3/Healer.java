@@ -10,4 +10,7 @@ package lab3;
  */
 public interface Healer {
     
+    public abstract void castingHeal();
+    public abstract void resurrection();
+    
 }

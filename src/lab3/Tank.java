@@ -10,4 +10,8 @@ package lab3;
  */
 public interface Tank {
     
+    public abstract void taunt();
+    public abstract void areaOfEffect();
+    
 }
+

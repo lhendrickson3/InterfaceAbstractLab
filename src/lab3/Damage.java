@@ -9,5 +9,7 @@ package lab3;
  * @author User
  */
 public interface Damage {
+    public abstract void rangedAttack();
+    public abstract void meleeAttack();
     
 }
