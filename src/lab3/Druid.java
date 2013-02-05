@@ -8,6 +8,6 @@ package lab3;
  *
  * @author User
  */
-public class Druid {
+public class Druid extends Character{
     
 }
