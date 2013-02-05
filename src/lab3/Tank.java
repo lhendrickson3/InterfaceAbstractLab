@@ -8,6 +8,6 @@ package lab3;
  *
  * @author User
  */
-public class Tank {
+public interface Tank {
     
 }

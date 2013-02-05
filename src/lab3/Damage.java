@@ -8,6 +8,6 @@ package lab3;
  *
  * @author User
  */
-public class Damage {
+public interface Damage {
     
 }
