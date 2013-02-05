@@ -8,6 +8,6 @@ package lab3;
  *
  * @author User
  */
-public class TankDruid {
+public class TankDruid extends Druid implements Tank{
     
 }

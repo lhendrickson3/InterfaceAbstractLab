@@ -8,6 +8,6 @@ package lab3;
  *
  * @author User
  */
-public class HealerPriest {
+public class HealerPriest extends Priest implements Healer{
     
 }
