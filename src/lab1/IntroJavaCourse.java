@@ -9,8 +9,6 @@ import javax.swing.JOptionPane;
  * @version     1.00
  */
 public class IntroJavaCourse extends ProgrammingCourse {
-    
-    private String prerequisites;
 
     public IntroJavaCourse(String courseName, String courseNumber, 
             double credits, String prerequisites) {
