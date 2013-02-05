@@ -9,5 +9,10 @@ package lab3;
  * @author User
  */
 public class DamagePriest extends Priest implements Damage{
-    
+    public void rangedAttack(){
+        
+    }
+    public void meleeAttack(){
+        
+    }
 }

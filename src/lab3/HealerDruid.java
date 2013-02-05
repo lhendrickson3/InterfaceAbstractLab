@@ -9,5 +9,11 @@ package lab3;
  * @author User
  */
 public class HealerDruid extends Druid implements Healer{
+    public void castingHeal(){
+        
+    }
+    public void resurrection(){
+        
+    }
     
 }

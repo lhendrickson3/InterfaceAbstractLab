@@ -9,5 +9,11 @@ package lab3;
  * @author User
  */
 public class TankDruid extends Druid implements Tank{
+    public void taunt(){
+        
+    }
+    public void areaOfEffect(){
+        
+    }
     
 }

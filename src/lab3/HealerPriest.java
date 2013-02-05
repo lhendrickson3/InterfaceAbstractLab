@@ -9,5 +9,11 @@ package lab3;
  * @author User
  */
 public class HealerPriest extends Priest implements Healer{
+    public void castingHeal(){
+        
+    }
+    public void resurrection(){
+        
+    }
     
 }
