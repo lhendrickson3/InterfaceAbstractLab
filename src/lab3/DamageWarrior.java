@@ -9,7 +9,7 @@ package lab3;
  * @author User
  */
 public class DamageWarrior extends Warrior implements Damage{
-    public void DamageWarrior(){
+    public DamageWarrior(){
         setAbility1("Whirl Wind");
         setAbility2("Cleave");
         setAbility3("Charge");

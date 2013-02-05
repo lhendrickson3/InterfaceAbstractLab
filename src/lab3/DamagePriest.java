@@ -9,7 +9,7 @@ package lab3;
  * @author User
  */
 public class DamagePriest extends Priest implements Damage{
-    public void damagePriest(){
+    public DamagePriest(){
         setAbility1("Fear");
         setAbility2("Drain Life");
         setAbility3("Power Ward Pain");

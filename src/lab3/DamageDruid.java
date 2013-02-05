@@ -9,10 +9,10 @@ package lab3;
  * @author User
  */
 public class DamageDruid extends Druid implements Damage{
-    public void damageDruid(){
-        setAbility1("Hurricane");
-        setAbility2("Swipe");
-        setAbility3("Cyclone");
+    public DamageDruid(){
+        this.setAbility1("Hurricane");
+        this.setAbility2("Swipe");
+        this.setAbility3("Cyclone");
     }
     public void rangedAttack(){
         System.out.println("I do ranged attacks when I am a crit-chicken!");

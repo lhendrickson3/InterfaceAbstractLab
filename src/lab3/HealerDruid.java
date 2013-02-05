@@ -9,7 +9,7 @@ package lab3;
  * @author User
  */
 public class HealerDruid extends Druid implements Healer{
-    public void healerDruid(){
+    public HealerDruid(){
         setAbility1("Rejuvinate");
         setAbility2("Tree Form");
         setAbility3("Heal");

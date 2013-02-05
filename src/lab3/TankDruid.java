@@ -9,7 +9,7 @@ package lab3;
  * @author User
  */
 public class TankDruid extends Druid implements Tank{
-    public void tankDruid(){
+    public TankDruid(){
         setAbility1("Charge");
         setAbility2("Swipe");
         setAbility3("Demoralizing Roar");

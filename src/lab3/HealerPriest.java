@@ -9,7 +9,7 @@ package lab3;
  * @author User
  */
 public class HealerPriest extends Priest implements Healer{
-    public void healerPriest(){
+    public HealerPriest(){
         setAbility1("Bubble");
         setAbility2("Greater Heal");
         setAbility3("Rapid Heal");
